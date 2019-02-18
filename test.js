@@ -1,3 +1,3 @@
 var transfer = require("./index.js")
 
-c
+console.log ("Profession")
