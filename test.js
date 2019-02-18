@@ -1,3 +1,3 @@
-var transfer = require("./index.js")
+var index = require("./index.js")
 
 console.log ("Profession  "+ transfer.name)
