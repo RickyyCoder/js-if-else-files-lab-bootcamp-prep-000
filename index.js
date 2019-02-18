@@ -1,5 +1,7 @@
-var name = "Joe"
-var height = "74"
+var name = "Programmer"
+var adress = "Petion Ville"
+
+
 
 console.log(name);
 // Don't worry about this
